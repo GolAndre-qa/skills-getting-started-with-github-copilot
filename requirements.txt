@@ -1,2 +1,7 @@
 fastapi
 uvicorn
+
+# Test deps
+pytest
+requests
+httpx
